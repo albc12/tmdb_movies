@@ -1,11 +1,11 @@
-# TMDB Movie Dataset Exploration
-## by Alicia Bosch
+## TMDB Movie Dataset Exploration
+### by Alicia Bosch
 
-## Data set
+### Data set
 
 This notebook will explore a dataset that contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 
-## Main goal
+### Main goal
 
 The final goal of this analysis is to understand what makes a film more profitable. I will try to understand different features around its profitability and will finally fulfil this goal. I will mainly answer the following questions related to the profit:
 
@@ -13,7 +13,7 @@ The final goal of this analysis is to understand what makes a film more profitab
 - What are the top 20 actors who always work in highly profitable films?
 - What genres are most popular from year to year? Is it related to a higher profit?
 
-## Summary of main findings 
+### Summary of main findings 
 
 #### What are the top 20 most profitable movies?
 
@@ -36,6 +36,6 @@ Looking into the total number of films throughout the years, it seems that the D
 However, in relative terms, the tendency changes from the absolute ones. Drama and Comedy were highly popular until just before the 2000s. From the new century onwards, Drama continues on this popularity trend but the Comedy genre suddenly plummets, letting the Documentary genre come strongly into play and increase its popularity tendency.
 
 
-## Resources
+### Resources
 https://scentellegher.github.io/programming/2017/07/15/pandas-groupby-multiple-columns-plot.html
 https://stackoverflow.com/questions/23377108/pandas-percentage-of-total-with-groupby
