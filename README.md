@@ -24,7 +24,7 @@ Star Wars (only its top 5 films, not ALL the saga) made in PROFITS the amount of
 
 #### What are the top 20 actors who always work in highly profitable films?
 
-Out of the actors/actresses who have at least casted in 10 films, Daniel Radcliffe was the one actor that acted in really profitable films by a huge difference. Harry Potter's films paid off. He almost doubles the second in the list. He overpasses the 500M$ whereas the second in the list is around $27M.
+Out of the actors/actresses who have at least casted in 10 films, Daniel Radcliffe was the one actor that acted in really profitable films by a huge difference. Harry Potter's films paid off. He almost doubles the second in the list. He overpasses the $500 M whereas the second in the list is around $270 M.
 Top 5 in this list are:
 > Daniel Radcliffe, Robert Downey Jr., Will Smith, Tom Cruise, Kristen Stewart
 
