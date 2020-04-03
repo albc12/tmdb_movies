@@ -31,7 +31,7 @@ Top 5 in this list are:
 Surprisingly there are only 4 woman out of the top20 list: Kristen Stewart, Kate Winslet, Sandra Bullock and Julia Roberts.
 
 #### What genres are most popular from year to year?
-Looking into the total number of films throughout the years, it seems that drama and documentary are the winners in absolute terms. Funnily, in 2015 Documentaries seem to get a bid drop in its releases (from 26 to 15).
+Looking into the total number of films throughout the years, it seems that the Drama and Documentary genres are the winners in absolute terms. Funnily, in 2015 Documentaries seem to get a bid drop in its releases (from 26 to 15).
 
 However, in relative terms, the tendency changes from the absolute ones. Drama and Comedy were highly popular until just before the 2000s. From the new century onwards, Drama continues on this popularity trend but the Comedy genre suddenly plummets, letting the Documentary genre come strongly into play and increase its popularity tendency.
 
